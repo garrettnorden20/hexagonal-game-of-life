@@ -1,0 +1,73 @@
+{
+  "singleCanonicalP61OrbitVerified": true,
+  "ruleLookupSha256": "3ef8635ad7a97a0336d676db821bdf3274768d9e1d02a79ec75c5a9c38d957c5",
+  "witness": {
+    "phaseAfterBoundary": 41,
+    "reflection": false,
+    "sixtyDegreeRotations": 1,
+    "offset": [
+      -1208,
+      -371
+    ],
+    "canonicalCells": [
+      [
+        12,
+        -15
+      ],
+      [
+        12,
+        -14
+      ],
+      [
+        13,
+        -15
+      ],
+      [
+        14,
+        -15
+      ],
+      [
+        15,
+        -15
+      ],
+      [
+        16,
+        -15
+      ]
+    ],
+    "canonicalTranslation": [
+      -4,
+      3
+    ],
+    "actualPhaseCells": [
+      [
+        -1194,
+        -373
+      ],
+      [
+        -1193,
+        -374
+      ],
+      [
+        -1193,
+        -373
+      ],
+      [
+        -1193,
+        -372
+      ],
+      [
+        -1193,
+        -371
+      ],
+      [
+        -1193,
+        -370
+      ]
+    ],
+    "outputTranslation": [
+      -3,
+      -1
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "description": "Small exact-state fixtures selected from independently replayed complete-field traces. These are not the full visualization datasets.",
+  "files": {
+    "gun-609-stages.json": {
+      "sha256": "93e3467d9118f1af514b1112fcc2c8c75ace4fd4d4932f950a6b8583ecb14d89",
+      "frameGenerations": [
+        300,
+        17300,
+        102300
+      ],
+      "frameCount": 3,
+      "sourceDatasetSha256": "1346cb06f444616e1acdde7dfb3b1735d0ffe0e358a2e21dbb8ac0a2e45b9f19"
+    },
+    "gun-254-stages.json": {
+      "sha256": "94126dfe888ed095a2b209c2ce7a46f6350d48407f0a96699f6e902f04124cd0",
+      "frameGenerations": [
+        0,
+        300,
+        10012,
+        19724,
+        29436
+      ],
+      "frameCount": 5,
+      "sourceDatasetSha256": "01064fd2e6d6c599c09c698380bcbe7fde77f3369a1f312f32fed70f00ab80dd"
+    }
+  }
+}

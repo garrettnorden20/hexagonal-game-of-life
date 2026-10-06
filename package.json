@@ -1,0 +1,14 @@
+{
+  "name": "hexagonal-game-of-life",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hexagonal cellular automaton and dependency-free pattern laboratory",
+  "scripts": {
+    "build": "node experiments/build-standalone.js",
+    "check": "node experiments/build-standalone.js --check && node experiments/test.js",
+    "test": "npm run check && node experiments/lab-state-test.js && node experiments/verify-gun.js",
+    "verify:patterns": "python3 experiments/verify-patterns.py",
+    "verify:gun": "python3 experiments/ongoing/factory-feedback-order3-gun29136-independent.py"
+  },
+  "engines": { "node": ">=18" }
+}

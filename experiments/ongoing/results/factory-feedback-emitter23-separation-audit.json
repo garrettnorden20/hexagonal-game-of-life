@@ -1,0 +1,433 @@
+{
+  "candidate": 23,
+  "status": "independent permanent-separation audit passed",
+  "ruleLookupSha256": "3ef8635ad7a97a0336d676db821bdf3274768d9e1d02a79ec75c5a9c38d957c5",
+  "all128RuleCasesReconstructed": true,
+  "ruleReconstruction": "S346; B2 and B3 with adjacent occupied and adjacent empty neighbor pairs; B4 with opposite empty neighbors",
+  "ruleQuiescentBackground": true,
+  "physicalCutPopulation": 609,
+  "physicalCutSha256": "7f4a5def78265b0285716a777f34b6ab7153d8928b7153fd2373e2667584f502",
+  "outputPopulation": 17,
+  "outputSha256": "83aa01f1d5c516fd42c3864a4494ed82db522271651950a66632d5bae39bcbf8",
+  "endpointUnionCellsChecked": true,
+  "shipPeriod": 61,
+  "shipTranslation": [
+    3,
+    -4
+  ],
+  "shipRecurrenceIndependent": true,
+  "noEarlierTranslationRecurrence": true,
+  "period": 102000,
+  "periodDividedByShipPeriod": [
+    1672,
+    8
+  ],
+  "phaseEnvelopes": [
+    [
+      -6237,
+      -6230
+    ],
+    [
+      -6236,
+      -6229
+    ],
+    [
+      -6236,
+      -6230
+    ],
+    [
+      -6237,
+      -6229
+    ],
+    [
+      -6237,
+      -6229
+    ],
+    [
+      -6237,
+      -6229
+    ],
+    [
+      -6237,
+      -6230
+    ],
+    [
+      -6237,
+      -6230
+    ],
+    [
+      -6236,
+      -6230
+    ],
+    [
+      -6237,
+      -6230
+    ],
+    [
+      -6237,
+      -6231
+    ],
+    [
+      -6238,
+      -6231
+    ],
+    [
+      -6237,
+      -6231
+    ],
+    [
+      -6237,
+      -6230
+    ],
+    [
+      -6237,
+      -6229
+    ],
+    [
+      -6237,
+      -6229
+    ],
+    [
+      -6237,
+      -6229
+    ],
+    [
+      -6238,
+      -6229
+    ],
+    [
+      -6236,
+      -6229
+    ],
+    [
+      -6236,
+      -6229
+    ],
+    [
+      -6235,
+      -6229
+    ],
+    [
+      -6236,
+      -6229
+    ],
+    [
+      -6237,
+      -6229
+    ],
+    [
+      -6237,
+      -6229
+    ],
+    [
+      -6237,
+      -6229
+    ],
+    [
+      -6237,
+      -6231
+    ],
+    [
+      -6238,
+      -6231
+    ],
+    [
+      -6239,
+      -6231
+    ],
+    [
+      -6239,
+      -6231
+    ],
+    [
+      -6239,
+      -6231
+    ],
+    [
+      -6238,
+      -6231
+    ],
+    [
+      -6238,
+      -6231
+    ],
+    [
+      -6238,
+      -6230
+    ],
+    [
+      -6238,
+      -6229
+    ],
+    [
+      -6238,
+      -6229
+    ],
+    [
+      -6238,
+      -6229
+    ],
+    [
+      -6238,
+      -6229
+    ],
+    [
+      -6238,
+      -6229
+    ],
+    [
+      -6238,
+      -6229
+    ],
+    [
+      -6238,
+      -6229
+    ],
+    [
+      -6238,
+      -6229
+    ],
+    [
+      -6238,
+      -6229
+    ],
+    [
+      -6239,
+      -6229
+    ],
+    [
+      -6240,
+      -6235
+    ],
+    [
+      -6239,
+      -6235
+    ],
+    [
+      -6238,
+      -6235
+    ],
+    [
+      -6237,
+      -6235
+    ],
+    [
+      -6238,
+      -6235
+    ],
+    [
+      -6239,
+      -6235
+    ],
+    [
+      -6240,
+      -6235
+    ],
+    [
+      -6239,
+      -6235
+    ],
+    [
+      -6240,
+      -6235
+    ],
+    [
+      -6239,
+      -6235
+    ],
+    [
+      -6239,
+      -6235
+    ],
+    [
+      -6239,
+      -6235
+    ],
+    [
+      -6239,
+      -6235
+    ],
+    [
+      -6239,
+      -6235
+    ],
+    [
+      -6239,
+      -6234
+    ],
+    [
+      -6239,
+      -6233
+    ],
+    [
+      -6239,
+      -6233
+    ],
+    [
+      -6240,
+      -6233
+    ]
+  ],
+  "phasePopulations": [
+    17,
+    18,
+    18,
+    24,
+    22,
+    26,
+    22,
+    23,
+    20,
+    22,
+    19,
+    16,
+    20,
+    24,
+    27,
+    22,
+    22,
+    20,
+    15,
+    20,
+    21,
+    22,
+    30,
+    24,
+    27,
+    28,
+    29,
+    38,
+    29,
+    29,
+    29,
+    34,
+    39,
+    38,
+    38,
+    39,
+    32,
+    35,
+    33,
+    26,
+    21,
+    15,
+    12,
+    9,
+    7,
+    8,
+    7,
+    8,
+    6,
+    9,
+    10,
+    10,
+    13,
+    11,
+    11,
+    10,
+    12,
+    14,
+    16,
+    17,
+    15
+  ],
+  "phaseStateSha256": [
+    "83aa01f1d5c516fd42c3864a4494ed82db522271651950a66632d5bae39bcbf8",
+    "67288bb5c55d6ffed84225c24e05a987663f93d791f684bbc44e02ee9978d73b",
+    "dda5789707e34247fdd9406ee21199cd9b75f150df2e76cfcd862c82c52b9bf9",
+    "f75f35137b994dd3ab9d85141b56aac4928de4c27fa988422a26dc2c09b9cea8",
+    "107ae1bffc93064e59adb07f0ce9c1b86fb7de452db28dc02c726664fe6215bb",
+    "186065974545b1b87cb6a50cfc1ca3e9df1a938528340ff46fbb53fd0115959b",
+    "9e86fa1e81c55dd580c8e306b8241d3679aa87c13eb757c2a7c18f749e3449ae",
+    "2ce30985e88e83a231f64a32e5435f20d4e4ae4e3961cc6852977147034cae97",
+    "9251dc9709e8e2a586ee7f5dc9c64bcd183c06c8b3af1df15a2e221db126b5ff",
+    "fa519d900c6eaa0c475bd8a953adb30f9640745b22c064db623a4e4c912ac7d0",
+    "db6960040a656e9fcecc71fc5264a425330730a1ca10feae7fe33e10840e7dfe",
+    "987e272ef783aebea446fa7b47b05997d91db71eaa796ce2f0e83576311dcbe2",
+    "9f1a81d42b21840c885fad89cb3f86ee8855962c47f15d3ce44fb610ef7fe476",
+    "18c5624620236c34604c43ef0fba47f817051249ab0f70635d456c2699baca06",
+    "2f5c4b7dfb83265bff808603ceca2ad559050e5fcf4e7d497d2023a16a07ca9d",
+    "f24e8a71aa3a86615437b5bff3be65e256371a049205444385a3db7329877215",
+    "cd36d2b0152604cf793d2319ba65ea5c992f6f0044c0ffe2f2d799779c2ccb82",
+    "065016f96a78520bd0f035b27d9c2678ac893629561d1c69f6dd2d6d1714459f",
+    "74d07d67a10d5185455cc913ab799f4815c4d94d4d0a796a0d077ca6eccc1801",
+    "5f94f6a6846eb079046a08d839bde80e99a2608dbfa5762564df30bda92e839b",
+    "aa66a3c50d13a7c201956afa0040a94b47e4c0a153fd7d6f3bac66f0834dedd7",
+    "714861d4d743b89ed143524d2f43f7adb20cc6fe885acf238cb33485af74145f",
+    "f8bcf4689f7864412ca58f17eb7899b8ab844a969e3e2f6b4a1b55d507ba8461",
+    "eedab791b2459ee096e3c87b8df2c11041ab1872506647897230ca1c0c14c768",
+    "09b5d9ac9040356c751c5f30fae0f12995cdd1ac4a0cff0f9ad42344ed162882",
+    "b43740234e9e128ace2e2f2bde0700494ade461791e8fd27124bab3ad745ae1a",
+    "d3ef6e86bcc92efabbbbe887829c8824819f573af4af9221a7eef47f9eeed915",
+    "46061389e86c9cebb9bfede4319152a5eace9609775d24cbd9865dd8d7afe74d",
+    "2ee3388d7c8326b36ed0b4210ac2247456861a9ad5b01d6d82b4a932083bd765",
+    "6e598233b9502b5d7ca17b7091faea7655df3b4ccb73800037d17d057aa626df",
+    "8ef387316058ecdac2e44b3e4ba9b2b68ac59190db5a15b1c0e0560f4ff1984c",
+    "a454e48d84fd8d24b572c2f3922112d7c403730be156526680c25b934386a873",
+    "b35908b04adb7d9a4567e031e83d66a3e3785eede0ae55fcdc9226a3f1739b7b",
+    "f17f35710bfb7e6461070e223d955d800b9b62bba53f45fc876a78cecfbb1273",
+    "582cbded95ed912983ddb7de8452942a1393616aa8caaaf9cd7c7f6cfb3cfa76",
+    "52be1df169e3938e9bb1fcc63dde610379c4fa9a62f2ebfa22f1fbbe19c78514",
+    "9b4e21b9d00ae1824a2fddc0e7c7a39c885e6913af1ab889b762ca4f6997483a",
+    "849ad816077c26bf48fcbdfd8ce0fa0e5d1e4872404c73ab4436efbb6baf51e3",
+    "78de121ead5ffda9fbcfd894c99f2b8c471fc91a3b05f915e777176d31fa3ad7",
+    "503c9ef4f20c61dfa0e54bc4e7dc52eaf495ba81a4345b412b84effce6c0f983",
+    "cf3c0e1d8c5abed1ab5b52f70aa5598ca09dd6cfab4e8999ff6bd8033ca9ac38",
+    "b769b3c6e0e1a5b25020a9a8eb169b1061400c2631c1bf529f876f8e9f14785a",
+    "24babea5f8443b9d7f56922779961d3ebf85308da0668363438ccb01e5ff70d5",
+    "5f253b028517ece081df6c76ae9d908e3ab7cae42342b782c7eaa11467e82566",
+    "a365f9d671d814b6a6ab8de6aa2263860fd4e6b9ad18fd6688ae361f7de1cd97",
+    "dafa66405e18b1e9ce75b769a0151db01d4be1b00305bd9df560df958443003f",
+    "c3f1c1b0031e400011a9ee9dab1701cde404e4eef804c77dcbe1c8f6b3497a81",
+    "ab87c108c4a589669dd510795a20214ee960ce530d04ee1b2a7c67ffc1267fa4",
+    "4a3cc90313fdd71f2e51d1a820f8e529c696f4a3033623b1b462a87c8ce9e6c6",
+    "35940f789ec0df08b57bcbc92f04ed8e632dd3b9dcf589c1b9bf5bdcc5784637",
+    "dadc4b129920ed01a4cc97c58550a867ff3f6a2b5d76927d8b5892b0252d0d26",
+    "9d6e4dc56bd32a8a1d255b1bd8a09a6f0520464879d9c5a0ad07101f478f624b",
+    "06472cc4be9864c245d00dca6451407085218b71b24c21fc3df2530892bfee15",
+    "c4ee1c37fd628d74d857752bb6f7fbe0d9a15a55ad32833866ab6f47037310b9",
+    "2f133d6605d07279e73f36e866827f95538d46252b9eb6fcce0048e429e09791",
+    "9a6b0e1411c1ec4e53de08f3e4113d15243be5063820b9adbc94f22a1cee3222",
+    "b7e979e0a87c9115b4a341d5608b668a9ae43ad76a4253af7adace0bd50a69b9",
+    "d4d0346d7d032e311fc904076aae69084d4954379fd631ac3b2057b3e8418545",
+    "92572b87d2db4c249d97be31b19f79567abb884818b876cdf737900b069c01cd",
+    "27a89d525e348672950d5f1f8a21b6dc38fd48b2edb0ed669f254d7b5defcf8f",
+    "32ff4363660542f7df8e08c454d1835fc0fd9b59a5efcee7e14c3dfe6bf6fd30"
+  ],
+  "phaseEnvelopesAgreeWithPrimary": true,
+  "shipPhasePopulationRange": [
+    6,
+    39
+  ],
+  "shipAllPhasePopulationSum": 1278,
+  "stroboscopicPopulation": "609 + SUM_(j=0..k-1) phasePopulations[(8*j) mod61] at physical generation300+k*102000",
+  "stroboscopicPopulationLowerBound": "609+6*k",
+  "allPhaseRRange": [
+    -6240,
+    -6229
+  ],
+  "uniformAllOlderPairsRGapLowerBound": 6677,
+  "minimumExactAdjacentAgeRGap": 6678,
+  "minimumExactAdjacentAgePhases": [
+    27,
+    28,
+    29
+  ],
+  "inductionFormula": "F^(kP+g)(S) = F^g(S) union UNION_(j=0..k-1) F^(g+jP)(G), 0<=g<P, k>=0",
+  "allOlderProof": "For t>=0,m>=1, min_r(G_t)-max_r(G_(t+mP)) >= allPhaseMin-allPhaseMax- vr*floor(mP/61) >= 6677 > 2; floor differences handle the nonzero remainder8",
+  "localityProof": "A radius1 closed neighborhood changes r by at most1; pairwise r-gaps>2 give disjoint closed neighborhoods. With empty background quiescent, F distributes over these separated unions for one generation.",
+  "scope": "Permanent escape and indefinitely repeated emission follow from the independent full-state recurrence and the checked all-generation projection inequalities. Historical novelty unestablished.",
+  "inputs": {
+    "candidate": "factory-feedback-emitter-candidates.json",
+    "primary": "factory-feedback-emitter23-induction.json",
+    "independentEnvelope": "factory-feedback-emitter-23-independent-envelope.json",
+    "independentReplayCertificate": "factory-feedback-emitter-23-independent.json"
+  },
+  "freshCycleGenerationsChecked": 102001,
+  "minimumFreshVersusFirstOldRGap": 6037,
+  "minimumFreshVersusFirstOldGenerations": [
+    21
+  ],
+  "independentEnvelopeSha256": "971fd381bca5242e4c07449775cf5113aa8b1840cd2ea289ec7cc9c1e51c353f",
+  "publicationNote": "Input provenance filenames retained; broad raw research datasets are not included in this compact simulator publication."
+}
